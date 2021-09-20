@@ -64,7 +64,7 @@
             <div class="wrapper">        
                 <div class="text-center text-white">                
                     <div>               
-                        <h2 class="pull-left" style="color:pink;"><u>Employee Detials</u></h2>
+                        <h2 class="pull-left" style="color:pink;"><u>Employee List</u></h2>
                         <a href="create.php" class="btn btn-success pull-right"><i class="fa fa-plus"></i> Add New Employee</a>                    
                         <?php
                         // Include config file
