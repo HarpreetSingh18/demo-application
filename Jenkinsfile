@@ -10,9 +10,9 @@ pipeline {
         
         stage('Create a docker image') {
             steps {
-                script{
-                echo "Creating Docker Image"
-                }
+                
+                 sh "sudo docker-compose up -d --build" 
+                
             }
         }
         
